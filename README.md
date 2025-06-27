@@ -111,8 +111,12 @@ Edit
 career_advisor/
 │
 ├── app.py                   # Streamlit frontend logic
+
 ├── salary_predictor_model.keras  # Trained NN model
+
 ├── scaler1.save             # Trained StandardScaler
+
 ├── requirements.txt         # Project dependencies
+
 ├── README.md                
 
